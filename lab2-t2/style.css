@@ -1,0 +1,21 @@
+.cont {
+	display: grid;
+  	justify-content: center;
+}
+
+#colorPick {
+	width: 100%;
+	margin: 10px 0;
+}
+
+table {
+	border-collapse: collapse;
+	text-align: center;
+	vertical-align: middle;
+}
+
+td {
+	width: 40px;
+	height: 40px;
+	border: 2px solid black;
+}
